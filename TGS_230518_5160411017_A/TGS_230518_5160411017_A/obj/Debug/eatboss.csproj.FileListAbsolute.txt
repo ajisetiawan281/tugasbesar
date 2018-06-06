@@ -1,0 +1,9 @@
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\bin\Debug\eatboss.exe.config
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\bin\Debug\eatboss.exe
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\bin\Debug\eatboss.pdb
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\eatboss.csprojResolveAssemblyReference.cache
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\TGS_230518_5160411017_A.Form1.resources
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\eatboss.Properties.Resources.resources
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\eatboss.csproj.GenerateResource.Cache
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\eatboss.exe
+E:\kedaikece\TGS_230518_5160411017_A\TGS_230518_5160411017_A\obj\Debug\eatboss.pdb

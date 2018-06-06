@@ -1,0 +1,4 @@
+aji;100;Medium Cheese aji pizza;Medium;Cheese;sosis;75000;
+haris;150;Large Sausage haris pizza;Large;Sausage;beef;120000;
+taufik;150;Large Simple taufik pizza;Large;Simple;rich;99000;
+test;100;Medium Sausage test pizza;Medium;Sausage;beef;90000;

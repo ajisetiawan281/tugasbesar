@@ -1,0 +1,3 @@
+Beef;12;1000;Burger with melon;melon;120000;
+Chicken;5;100;Burger with cheese;cheese;30000;
+Beef;2;100;Double Burger with banana;banana;20000;
